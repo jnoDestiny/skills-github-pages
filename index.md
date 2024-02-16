@@ -1,6 +1,5 @@
 ---
 title: Writeup and Security Blog
-
-Hey! :)
 ---
 
+Hey! :)
