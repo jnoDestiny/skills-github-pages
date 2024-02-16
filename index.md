@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+title: Writeup and Security Blog
+
+Hey! :)
 ---
 
